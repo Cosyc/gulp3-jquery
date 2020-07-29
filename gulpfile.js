@@ -1,6 +1,4 @@
-/**
- * 此为gulp4.0的配置文件
- */
+
 var gulp = require('gulp'),
     gutil = require('gulp-util'), //打印日志工具
     clean = require('gulp-clean'), //清理文件工具
